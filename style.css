@@ -1,0 +1,35 @@
+table, tr, td{
+  border: 1px solid black;
+}
+body{
+  background-image: url('https://1000logos.net/wp-content/uploads/2020/03/Korn-Logo.png');
+    background-repeat:no-repeat;
+  background-attachment: fixed;
+  backgound-size: cover;
+}
+h1{
+  color: red;
+  text-align: center;
+}
+h2{
+  color:blue;
+  text-align: center;
+}
+b{
+  color: blue;
+}
+img{
+  width: 150px;
+}
+th{
+  color: green;
+}
+td{
+  color: red;
+}
+table{
+  margin:auto;
+}
+.star{
+  text-align:center;
+}
